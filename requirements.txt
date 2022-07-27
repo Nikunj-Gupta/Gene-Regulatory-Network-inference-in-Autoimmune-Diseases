@@ -1,0 +1,3 @@
+GEOparse
+spacepy
+cdflib
