@@ -1,0 +1,6 @@
+docs/
+venv/
+.ipynb_checkpoints
+.vscode
+.DS_Store
+datasets/
