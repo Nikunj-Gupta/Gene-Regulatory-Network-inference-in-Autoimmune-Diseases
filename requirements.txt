@@ -2,3 +2,4 @@ GEOparse
 spacepy
 cdflib
 biomart
+seaborn
