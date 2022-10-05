@@ -3,3 +3,4 @@ spacepy
 cdflib
 biomart
 seaborn
+sklearn
